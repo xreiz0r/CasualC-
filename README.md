@@ -1,2 +1,3 @@
 # casual
-Simple personal projects coded using classic c++ syntax.
+Uncompiled C++ Tools
+Simple projects using classic c++ syntax.

@@ -1,0 +1,126 @@
+
+
+			Concept
+			
+				Dating Game
+				
+				
+
+Input = letters and spaces
+Ignore spaces
+
+Translate letters to numb and numbs to mean
+
+Calc mean
+1 +1+1+1 / n of entries
+
+Calc squared 
+|entry1 - mean|^2 =sqrd1
+|entry2 - mean|^2 =sqrd2
+**no negative values
+
+Calc devide squard
+sqrd1 + sqrd2/ n of entries = raZ
+
+Calc root raZ
+sqrroot raz = SD
+
+
+
+
+
+
+
+
+
+
+
+################################
+
+include <iostream> #include <string> int main() { 	using namespace std; 	int number, count = 0; cout << "Enter a number: "; cin >> number; 		for (; number != 0; ++count) 		{ 			cin >> number; 		}; 		cout << "Total of " << count << " inputs.\n"; 		system("pause"); // I'm aware that this way is very bad 	return 0; }
+
+
+
+
+##Stackoverflow
+
+Given std::vector<double> v, this is the naive way:
+
+#include <numeric> double sum = std::accumulate(v.begin(), v.end(), 0.0); double mean = sum / v.size(); double sq_sum = std::inner_product(v.begin(), v.end(), v.begin(), 0.0); double stdev = std::sqrt(sq_sum / v.size() - mean * mean); 
+
+This is susceptible to overflow or underflow for huge or tiny values. A slightly better way to calculate the standard deviation is:
+
+double sum = std::accumulate(v.begin(), v.end(), 0.0); double mean = sum / v.size(); std::vector<double> diff(v.size()); std::transform(v.begin(), v.end(), diff.begin(), std::bind2nd(std::minus<double>(), mean)); double sq_sum = std::inner_product(diff.begin(), diff.end(), diff.begin(), 0.0); double stdev = std::sqrt(sq_sum / v.size());
+
+UPDATE for C++11:
+
+The call to std::transform can be written using a lambda function instead of std::minus and std::bind2nd(now deprecated):
+
+std::transform(v.begin(), v.end(), diff.begin(), [mean](double x) { return x - mean; }); 
+
+
+#########
+
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+float calculateSD(float data[ ]);
+
+int main() {
+  int i;
+  float data[10];
+
+  cout << "Enter 10 elements: ";
+  for(i = 0; i < 10; ++i) {
+    cin >> data[i];
+  }
+
+  cout << endl << "Standard Deviation = " << calculateSD(data);
+
+  return 0;
+}
+
+float calculateSD(float data[ ]) {
+  float sum = 0.0, mean, standardDeviation = 0.0;
+  int i;
+
+  for(i = 0; i < 10; ++i) {
+    sum += data[i];
+  }
+
+  mean = sum / 10;
+
+  for(i = 0; i < 10; ++i) {
+    standardDeviation += pow(data[i] - mean, 2);
+  }
+
+  return sqrt(standardDeviation / 10);
+}
+
+
+####delfi
+
+#include<bits/stdc++.h> using namespace std; int main() { int n; //number of elements we want user to enter cout<<"Enter the number of elements\n"; cin>>n; int arr[n]; //array to store the elements cout<<"Enter the elements\n"; for(int i=0;i<n;i++) cin>>arr[i]; int sum = 0; for(int i=0;i<n;i++) { sum = sum + arr[i]; } double mean = (double)sum/n; double sum2 = 0.0; for(int i=0;i<n;i++) { sum2 = sum2 + (arr[i]-mean)*(arr[i]-mean); } double variance = (double)sum2/n; double standardDeviation = sqrt(variance); cout<<"Mean: "<<mean<<endl; cout<<"Variance: "<<variance<<endl; cout<<"Standard deviation: "<<standardDeviation;
+
+#######letters 2 numb
+
+int main() { string s = "abcdef" for (unsigned int i = 0; i < s.length(); i++) { cout << returnVal(s[i]); } return 0; }
+
+#####
+
+const unsigned int letter_to_value[] = {10, 11, 12, /*...*/, 35}; 
+
+// ... 
+letter = toupper(letter); 
+const unsigned int index = letter - 'A'; 
+value = letter_to_value[index]; 
+cout << index;
+
+#########
+#include <iostream> 
+#include <cmath> 
+using namespace std; 
+
+int main() {    
+float val[5] = {12.5, 7.0, 10.0, 7.8, 15.5};    float sum = 0.0, mean, variance = 0.0, stdDeviation;    int i;    for(i = 0; i < 5; ++i)    sum += val[i];    mean = sum/5;    for(i = 0; i < 5; ++i)    variance += pow(val[i] - mean, 2);    variance=variance/5;    stdDeviation = sqrt(variance);    cout<<"The data values are: ";    for(i = 0; i < 5; ++i)    cout<< val[i] <<" ";    cout<<endl;    cout<<"The standard deviation of these data values is "<<stdDeviation; }

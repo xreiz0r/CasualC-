@@ -108,61 +108,61 @@ cin>>a;
 switch(a){
 case 0: return; break;
 case 1:
-cout<<"\t\t\t\t\tYou have 334 days & 8760 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 334 days &  hours left \n\n\n";return;
 case 2:
-cout<<"\t\t\t\t\tYou have 333 days & 8736 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 333 days &  hours left \n\n\n";return;
 case 3:
-cout<<"\t\t\t\t\tYou have 332 days & 8712 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 332 days &  hours left \n\n\n";return;
 case 4:
-cout<<"\t\t\t\t\tYou have 331 days & 8688 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 331 days &  hours left \n\n\n";return;
 case 5:
-cout<<"\t\t\t\t\tYou have 330 days & 8664 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 330 days &  hours left \n\n\n";return;
 case 6:
-cout<<"\t\t\t\t\tYou have 329 days & 8640 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 329 days &  hours left \n\n\n";return;
 case 7:
-cout<<"\t\t\t\t\tYou have 328 days & 8616 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 328 days &  hours left \n\n\n";return;
 case 8:
-cout<<"\t\t\t\t\tYou have 327 days & 8592 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 327 days &  hours left \n\n\n";return;
 case 9:
-cout<<"\t\t\t\t\tYou have 326 days & 8568 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 326 days &  hours left \n\n\n";return;
 case 10:
-cout<<"\t\t\t\t\tYou have 325 days & 8544 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 325 days &  hours left \n\n\n";return;
 case 11:
-cout<<"\t\t\t\t\tYou have 324 days & 8520 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 324 days &  hours left \n\n\n";return;
 case 12:
-cout<<"\t\t\t\t\tYou have 323 days & 8496 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 323 days &  hours left \n\n\n";return;
 case 13:
-cout<<"\t\t\t\t\tYou have 322 days & 8472 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 322 days &  hours left \n\n\n";return;
 case 14:
-cout<<"\t\t\t\t\tYou have 321 days & 8448 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 321 days &  hours left \n\n\n";return;
 case 15:
-cout<<"\t\t\t\t\tYou have 320 days & 8376 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 320 days &  hours left \n\n\n";return;
 case 16:
-cout<<"\t\t\t\t\tYou have 319 days & 8400 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 319 days &  hours left \n\n\n";return;
 case 17:
-cout<<"\t\t\t\t\tYou have 318 days & 8376 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 318 days &  hours left \n\n\n";return;
 case 18:
-cout<<"\t\t\t\t\tYou have 317 days & 8352 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 317 days &  hours left \n\n\n";return;
 case 19:
-cout<<"\t\t\t\t\tYou have 316 days & 8328 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 316 days &  hours left \n\n\n";return;
 case 20:
-cout<<"\t\t\t\t\tYou have 315 days & 8304 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 315 days &  hours left \n\n\n";return;
 case 21:
-cout<<"\t\t\t\t\tYou have 314 days & 8280 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 314 days &  hours left \n\n\n";return;
 case 22:
-cout<<"\t\t\t\t\tYou have 313 days & 8256 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 313 days &  hours left \n\n\n";return;
 case 23:
-cout<<"\t\t\t\t\tYou have 312 days & 8232 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 312 days &  hours left \n\n\n";return;
 case 24:
-cout<<"\t\t\t\t\tYou have 311 days & 8208 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 311 days &  hours left \n\n\n";return;
 case 25:
-cout<<"\t\t\t\t\tYou have 310 days & 8184 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 310 days &  hours left \n\n\n";return;
 case 26:
-cout<<"\t\t\t\t\tYou have 309 days & 8160 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 309 days &  hours left \n\n\n";return;
 case 27:
-cout<<"\t\t\t\t\tYou have 308 days & 8136 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 308 days &  hours left \n\n\n";return;
 case 28:
-cout<<"\t\t\t\t\tYou have 307 days & 8112 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 307 days &  hours left \n\n\n";return;
 
 default : 
 cout<<"\t i n v a l i d  e n t r y \n\n";return;
@@ -186,67 +186,67 @@ cin>>a;
 switch(a){
 case 0: return; break;
 case 1:
-cout<<"\t\t\t\t\tYou have 306 days & 8760 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 306 days &  hours left \n\n\n";return;
 case 2:
-cout<<"\t\t\t\t\tYou have 305 days & 8736 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 305 days &  hours left \n\n\n";return;
 case 3:
-cout<<"\t\t\t\t\tYou have 304 days & 8712 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 304 days &  hours left \n\n\n";return;
 case 4:
-cout<<"\t\t\t\t\tYou have 303 days & 8688 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 303 days &  hours left \n\n\n";return;
 case 5:
-cout<<"\t\t\t\t\tYou have 302 days & 8664 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 302 days &  hours left \n\n\n";return;
 case 6:
-cout<<"\t\t\t\t\tYou have 301 days & 8640 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 301 days &  hours left \n\n\n";return;
 case 7:
-cout<<"\t\t\t\t\tYou have 300 days & 8616 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 300 days &  hours left \n\n\n";return;
 case 8:
-cout<<"\t\t\t\t\tYou have 299 days & 8592 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 299 days &  hours left \n\n\n";return;
 case 9:
-cout<<"\t\t\t\t\tYou have 298 days & 8568 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 298 days &  hours left \n\n\n";return;
 case 10:
-cout<<"\t\t\t\t\tYou have 297 days & 8544 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 297 days &  hours left \n\n\n";return;
 case 11:
-cout<<"\t\t\t\t\tYou have 296 days & 8520 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 296 days &  hours left \n\n\n";return;
 case 12:
-cout<<"\t\t\t\t\tYou have 295 days & 8496 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 295 days &  hours left \n\n\n";return;
 case 13:
-cout<<"\t\t\t\t\tYou have 294 days & 8472 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 294 days &  hours left \n\n\n";return;
 case 14:
-cout<<"\t\t\t\t\tYou have 293 days & 8448 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 293 days &  hours left \n\n\n";return;
 case 15:
-cout<<"\t\t\t\t\tYou have 292 days & 8376 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 292 days &  hours left \n\n\n";return;
 case 16:
-cout<<"\t\t\t\t\tYou have 291 days & 8400 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 291 days &  hours left \n\n\n";return;
 case 17:
-cout<<"\t\t\t\t\tYou have 290 days & 8376 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 290 days &  hours left \n\n\n";return;
 case 18:
-cout<<"\t\t\t\t\tYou have 289 days & 8352 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 289 days &  hours left \n\n\n";return;
 case 19:
-cout<<"\t\t\t\t\tYou have 288 days & 8328 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 288 days &  hours left \n\n\n";return;
 case 20:
-cout<<"\t\t\t\t\tYou have 287 days & 8304 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 287 days &  hours left \n\n\n";return;
 case 21:
-cout<<"\t\t\t\t\tYou have 286 days & 8280 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 286 days &  hours left \n\n\n";return;
 case 22:
-cout<<"\t\t\t\t\tYou have 285 days & 8256 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 285 days &  hours left \n\n\n";return;
 case 23:
-cout<<"\t\t\t\t\tYou have 284 days & 8232 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 284 days &  hours left \n\n\n";return;
 case 24:
-cout<<"\t\t\t\t\tYou have 283 days & 8208 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 283 days &  hours left \n\n\n";return;
 case 25:
-cout<<"\t\t\t\t\tYou have 282 days & 8184 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 282 days &  hours left \n\n\n";return;
 case 26:
-cout<<"\t\t\t\t\tYou have 281 days & 8160 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 281 days &  hours left \n\n\n";return;
 case 27:
-cout<<"\t\t\t\t\tYou have 280 days & 8136 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 280 days &  hours left \n\n\n";return;
 case 28:
-cout<<"\t\t\t\t\tYou have 279 days & 8112 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 279 days &  hours left \n\n\n";return;
 case 29:
-cout<<"\t\t\t\t\tYou have 278 days & 8088 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 278 days &  hours left \n\n\n";return;
 case 30:
-cout<<"\t\t\t\t\tYou have 277 days & 8064 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 277 days &  hours left \n\n\n";return;
 case 31:
-cout<<"\t\t\t\t\tYou have 276 days & 8040 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 276 days &  hours left \n\n\n";return;
 
 default : 
 cout<<"\t i n v a l i d  e n t r y \n\n";return;
@@ -268,65 +268,65 @@ cin>>a;
 switch(a){
 case 0: return; break;
 case 1:
-cout<<"\t\t\t\t\tYou have 275 days & 8760 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 275 days &  hours left \n\n\n";return;
 case 2:
-cout<<"\t\t\t\t\tYou have 274 days & 8760 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 274 days &  hours left \n\n\n";return;
 case 3:
-cout<<"\t\t\t\t\tYou have 273 days & 8736 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 273 days &  hours left \n\n\n";return;
 case 4:
-cout<<"\t\t\t\t\tYou have 272 days & 8712 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 272 days &  hours left \n\n\n";return;
 case 5:
-cout<<"\t\t\t\t\tYou have 271 days & 8688 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 271 days &  hours left \n\n\n";return;
 case 6:
-cout<<"\t\t\t\t\tYou have 270 days & 8664 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 270 days &  hours left \n\n\n";return;
 case 7:
-cout<<"\t\t\t\t\tYou have 269 days & 8640 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 269 days & hours left \n\n\n";return;
 case 8:
-cout<<"\t\t\t\t\tYou have 268 days & 8616 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 268 days &  hours left \n\n\n";return;
 case 9:
-cout<<"\t\t\t\t\tYou have 267 days & 8592 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 267 days &  hours left \n\n\n";return;
 case 10:
-cout<<"\t\t\t\t\tYou have 266 days & 8568 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 266 days &  hours left \n\n\n";return;
 case 11:
-cout<<"\t\t\t\t\tYou have 265 days & 8544 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 265 days &  hours left \n\n\n";return;
 case 12:
-cout<<"\t\t\t\t\tYou have 264 days & 8520 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 264 days &  hours left \n\n\n";return;
 case 13:
-cout<<"\t\t\t\t\tYou have 263 days & 8496 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 263 days &  hours left \n\n\n";return;
 case 14:
-cout<<"\t\t\t\t\tYou have 262 days & 8472 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 262 days &  hours left \n\n\n";return;
 case 15:
-cout<<"\t\t\t\t\tYou have 261 days & 8448 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 261 days &  hours left \n\n\n";return;
 case 16:
-cout<<"\t\t\t\t\tYou have 260 days & 8376 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 260 days &  hours left \n\n\n";return;
 case 17:
-cout<<"\t\t\t\t\tYou have 259 days & 8400 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 259 days &  hours left \n\n\n";return;
 case 18:
-cout<<"\t\t\t\t\tYou have 258 days & 8376 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 258 days &  hours left \n\n\n";return;
 case 19:
-cout<<"\t\t\t\t\tYou have 257 days & 8352 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 257 days &  hours left \n\n\n";return;
 case 20:
-cout<<"\t\t\t\t\tYou have 256 days & 8328 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 256 days &  hours left \n\n\n";return;
 case 21:
-cout<<"\t\t\t\t\tYou have 255 days & 8304 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 255 days &  hours left \n\n\n";return;
 case 22:
-cout<<"\t\t\t\t\tYou have 254 days & 8280 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 254 days &  hours left \n\n\n";return;
 case 23:
-cout<<"\t\t\t\t\tYou have 253 days & 8256 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 253 days &  hours left \n\n\n";return;
 case 24:
-cout<<"\t\t\t\t\tYou have 252 days & 8232 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 252 days &  hours left \n\n\n";return;
 case 25:
-cout<<"\t\t\t\t\tYou have 251 days & 8208 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 251 days &  hours left \n\n\n";return;
 case 26:
-cout<<"\t\t\t\t\tYou have 250 days & 8184 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 250 days &  hours left \n\n\n";return;
 case 27:
-cout<<"\t\t\t\t\tYou have 249 days & 8160 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 249 days &  hours left \n\n\n";return;
 case 28:
-cout<<"\t\t\t\t\tYou have 248 days & 8136 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 248 days &  hours left \n\n\n";return;
 case 29:
-cout<<"\t\t\t\t\tYou have 247 days & 8112 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 247 days & 5928 hours left \n\n\n";return;
 case 30:
-cout<<"\t\t\t\t\tYou have 246 days & 8088 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 246 days & 5904 hours left \n\n\n";return;
 
 default : 
 cout<<"\t i n v a l i d  e n t r y \n\n";return;
@@ -349,67 +349,67 @@ cin>>a;
 switch(a){
 case 0: return; break;
 case 1:
-cout<<"\t\t\t\t\tYou have 245 days & 8064 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 245 days & 5880 hours left \n\n\n";return;
 case 2:
-cout<<"\t\t\t\t\tYou have 244 days & 8760 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 244 days & 5856 hours left \n\n\n";return;
 case 3:
-cout<<"\t\t\t\t\tYou have 243 days & 8736 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 243 days & 5832 hours left \n\n\n";return;
 case 4:
-cout<<"\t\t\t\t\tYou have 242 days & 8712 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 242 days & 5808 hours left \n\n\n";return;
 case 5:
-cout<<"\t\t\t\t\tYou have 241 days & 8688 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 241 days & 5784 hours left \n\n\n";return;
 case 6:
-cout<<"\t\t\t\t\tYou have 240 days & 8664 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 240 days & 5760 hours left \n\n\n";return;
 case 7:
-cout<<"\t\t\t\t\tYou have 239 days & 8640 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 239 days & 5736 hours left \n\n\n";return;
 case 8:
-cout<<"\t\t\t\t\tYou have 238 days & 8616 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 238 days & 5712 hours left \n\n\n";return;
 case 9:
-cout<<"\t\t\t\t\tYou have 237 days & 8592 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 237 days & 5688 hours left \n\n\n";return;
 case 10:
-cout<<"\t\t\t\t\tYou have 236 days & 8568 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 236 days & 5664 hours left \n\n\n";return;
 case 11:
-cout<<"\t\t\t\t\tYou have 235 days & 8544 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 235 days & 5640 hours left \n\n\n";return;
 case 12:
-cout<<"\t\t\t\t\tYou have 234 days & 8520 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 234 days & 5616 hours left \n\n\n";return;
 case 13:
-cout<<"\t\t\t\t\tYou have 233 days & 8496 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 233 days & 5592 hours left \n\n\n";return;
 case 14:
-cout<<"\t\t\t\t\tYou have 232 days & 8472 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 232 days & 5568 hours left \n\n\n";return;
 case 15:
-cout<<"\t\t\t\t\tYou have 231 days & 8448 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 231 days & 5544 hours left \n\n\n";return;
 case 16:
-cout<<"\t\t\t\t\tYou have 230 days & 8376 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 230 days & 5520 hours left \n\n\n";return;
 case 17:
-cout<<"\t\t\t\t\tYou have 229 days & 8400 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 229 days & 5496 hours left \n\n\n";return;
 case 18:
-cout<<"\t\t\t\t\tYou have 228 days & 8376 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 228 days & 5472 hours left \n\n\n";return;
 case 19:
-cout<<"\t\t\t\t\tYou have 227 days & 8352 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 227 days & 5448 hours left \n\n\n";return;
 case 20:
-cout<<"\t\t\t\t\tYou have 226 days & 8328 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 226 days & 5424 hours left \n\n\n";return;
 case 21:
-cout<<"\t\t\t\t\tYou have 225 days & 8304 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 225 days & 5400 hours left \n\n\n";return;
 case 22:
-cout<<"\t\t\t\t\tYou have 224 days & 8280 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 224 days & 5376 hours left \n\n\n";return;
 case 23:
-cout<<"\t\t\t\t\tYou have 223 days & 8256 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 223 days & 5352 hours left \n\n\n";return;
 case 24:
-cout<<"\t\t\t\t\tYou have 222 days & 8232 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 222 days & 5328 hours left \n\n\n";return;
 case 25:
-cout<<"\t\t\t\t\tYou have 221 days & 8208 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 221 days & 5304 hours left \n\n\n";return;
 case 26:
-cout<<"\t\t\t\t\tYou have 220 days & 8184 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 220 days & 5280 hours left \n\n\n";return;
 case 27:
-cout<<"\t\t\t\t\tYou have 219 days & 8160 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 219 days & 5262 hours left \n\n\n";return;
 case 28:
-cout<<"\t\t\t\t\tYou have 218 days & 8136 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 218 days & 5232 hours left \n\n\n";return;
 case 29:
-cout<<"\t\t\t\t\tYou have 217 days & 8112 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 217 days & 5208 hours left \n\n\n";return;
 case 30:
-cout<<"\t\t\t\t\tYou have 216 days & 8088 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 216 days & 5184 hours left \n\n\n";return;
 case 31:
-cout<<"\t\t\t\t\tYou have 215 days & 8064 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 215 days & 5160 hours left \n\n\n";return;
 
 default : 
 cout<<"\t i n v a l i d  e n t r y \n\n";return;
@@ -431,7 +431,7 @@ cin>>a;
 switch(a){
 case 0: return; break;
 case 1:
-cout<<"\t\t\t\t\tYou have 214 days & 8040 hours left \n\n\n";return;
+cout<<"\t\t\t\t\tYou have 214 days & 5136 hours left \n\n\n";return;
 case 2:
 cout<<"\t\t\t\t\tYou have 213 days & 5112 hours left \n\n\n";return;
 case 3:

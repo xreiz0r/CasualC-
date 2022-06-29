@@ -12,7 +12,7 @@ using namespace std;
 	
 		
 		
-	if(i > 0){
+	if(i >= 0){
 	
 	switch(i)
 		{
@@ -55,6 +55,9 @@ using namespace std;
 		case 1:
 		cout << "a j i n. \n\n";
 		break;
+		case 0:
+		cout <<"n u l  \n";
+		break;
 		default :
 		cout << "I n v a l i d  e n t r y . ..\n";
 		 }
@@ -62,6 +65,6 @@ using namespace std;
 	else {
 	cout << "I n v a l i d  e n t r y  ...\n";
 	}		
-	return 0;
+	return -1;
 		                                                            }
 

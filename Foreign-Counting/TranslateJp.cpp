@@ -2,7 +2,7 @@
 using namespace std;
 	int main(){
 	int x;
-	cout << "[Digits to Japanese]\nTranslate Your Number Below: \n[I - X]" << endl;
+	cout << "Welcome!\nTranslate Your Number Below: \n JAPANESE[0 - 10]\n\n" << endl;
 	while(true)
 	{
 	cin >> x;

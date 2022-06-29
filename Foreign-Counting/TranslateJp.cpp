@@ -14,7 +14,7 @@ using namespace std;
 else break;
 	}	
 	
-if(x<11 && x>0){
+if(x<11 && x>=0){
 	switch(x)
 		{
 		case 10:
@@ -47,6 +47,9 @@ if(x<11 && x>0){
 		case 1:
 			cout <<"I c h i . \n";
 			break;
+		case 0:
+			cout <<"R e i . \n";
+			break;
 		default:
 			cout <<"S o r r y? \n";		
 		}
@@ -54,5 +57,5 @@ if(x<11 && x>0){
 	else {	
 		cout << "Invalid option.. . \n";
 	}
-	return 0;
+	return -1;
 	}

@@ -2,11 +2,11 @@
 using namespace std;
 
 int main() {
-cout << "W e l c o m e ...\nTranslate a number:\n RO[ I - X ]\n\n";
+cout << "W e l c o m e ...\nTranslate a number:\n ROMANIAN[0 - 10]\n\n";
 
 int i;
 cin >> i;
-if(i > 0){
+if(i >= 0){
 switch(i){
 
 	case 10:
@@ -29,11 +29,13 @@ switch(i){
 	cout << "d u o .\n\n";break;
 	case 1:
 	cout << "O n n o .\n\n";break;
+	case 0:
+	cout <<"N u l a. \n";break;
 	default :cout << "I n v a l i d e n t r y . ..\n";
 	}
 	}
 	else {
 	>cout << "I n v a l i d e n t r y ...\n";
 	}
-	return 0;
+	return -1;
 	}

@@ -5,7 +5,7 @@ int main() {
 
 
 
-cout << "\n\t\tTranslate Weekdays to English [Jp]\n\n";
+cout << "\n\t\tTranslate Weekdays to English [JAPANESE]\n\n";
 
 cout << "\n Select a Weekday: \n (Numeral)\n\n";
 

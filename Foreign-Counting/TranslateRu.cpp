@@ -4,7 +4,7 @@ using namespace std;
 
 	int main() {
 	
-	cout << "W e l c o m e ...\nTranslate a number:\n RU[ I - X ]\n\n";
+	cout << "W e l c o m e ...\nTranslate a number:\n RUSSIAN[0 - 10]\n\n";
 		
 	int i;
 	cin >> i;
